@@ -2,3 +2,5 @@
 sample svelte
 
 svelteをやっていくぞ
+
+まるばつゲームなぞ　
